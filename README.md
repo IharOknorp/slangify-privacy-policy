@@ -108,3 +108,9 @@ If you have any questions about this Privacy Policy, please contact:
 Ihar Pronka
 Poland
 📧 oknorpcorp@gmail.com
+
+## Data Deletion
+
+If you want to delete your data, email us at oknorpcorp@gmail.com.
+In the request, include your app name and the device ID if possible.
+We will process your request within 30 days.
