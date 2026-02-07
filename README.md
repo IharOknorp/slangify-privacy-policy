@@ -1,83 +1,105 @@
-Privacy Policy for Slangify - Tłumacz Slangu PL
+# Privacy Policy for Slangify - Tłumacz Slangu PL
+
 Last updated: February 6, 2026
+
+## Table of Contents
+- [Data Controller](#data-controller)
+- [What Data We Collect](#what-data-we-collect)
+- [Analytics](#analytics)
+- [Advertising](#advertising)
+- [Purposes of Processing](#purposes-of-processing)
+- [Legal Basis (GDPR)](#legal-basis-gdpr)
+- [Consent, Disclosure, and Privacy Options](#consent-disclosure-and-privacy-options)
+- [Sharing of Data](#sharing-of-data)
+- [International Data Transfers](#international-data-transfers)
+- [Data Retention](#data-retention)
+- [Your Rights (GDPR)](#your-rights-gdpr)
+- [Children](#children)
+- [AI-Generated Content Disclaimer](#ai-generated-content-disclaimer)
+- [Changes to This Privacy Policy](#changes-to-this-privacy-policy)
+- [Contact](#contact)
+- [Data Deletion](#data-deletion)
 
 This Privacy Policy explains how Ihar Pronka (“we”, “us”, “our”) collects, uses, and shares information when you use Slangify - Tłumacz Slangu PL (the “App”).
 
-Data Controller
+## Data Controller
 Ihar Pronka
 Country: Poland
 Contact: oknorpcorp@gmail.com
 
-What Data We Collect
-We use third‑party services to operate, improve, and monetize the App, including analytics and advertising services.
+## What Data We Collect
+We use third-party services to operate, improve, and monetize the App, including analytics and advertising services.
 
-Analytics
+## Analytics
 We use Firebase Analytics (Google LLC) to understand how the App is used and to improve it. Firebase Analytics may automatically collect:
+- App instance identifier (app-instance ID)
+- Device information (e.g., device model, operating system, app version, language, country)
+- App usage events (e.g., screen views, session duration, interactions)
+- IP address (used in a masked form for approximate location)
 
-App instance identifier (app‑instance ID)
-Device information (e.g., device model, operating system, app version, language, country)
-App usage events (e.g., screen views, session duration, interactions)
-IP address (used in a masked form for approximate location)
-Advertising
+## Advertising
 We use Google AdMob (Google LLC) to display advertisements in the App. AdMob may collect and process:
+- Advertising ID (if available and not disabled at the operating system level)
+- Approximate location (derived from IP address)
+- Device information (e.g., device type, operating system, language)
+- Ad interaction data (e.g., impressions, clicks)
 
-Advertising ID (if available and not disabled at the operating system level)
-Approximate location (derived from IP address)
-Device information (e.g., device type, operating system, language)
-Ad interaction data (e.g., impressions, clicks)
 We do not intentionally collect special categories of personal data (such as health or religious information).
 
-Purposes of Processing
+## Purposes of Processing
 We process data to:
+- Analyze App performance and usage trends
+- Improve features, stability, and user experience
+- Display and optimize advertisements
+- Prevent abuse and fraud
 
-Analyze App performance and usage trends
-Improve features, stability, and user experience
-Display and optimize advertisements
-Prevent abuse and fraud
-Legal Basis (GDPR)
+## Legal Basis (GDPR)
 For users in the EEA/UK/CH:
+- Personalized advertising and the use of advertising identifiers are processed based on your consent, obtained before ads are requested where required by law. (developers.google.com)
+- Non-personalized ads and analytics may rely on legitimate interests where permitted by law, or on consent where required.
 
-Personalized advertising and the use of advertising identifiers are processed based on your consent, obtained before ads are requested where required by law. (developers.google.com)
-Non‑personalized ads and analytics may rely on legitimate interests where permitted by law, or on consent where required.
-Consent, Disclosure, and Privacy Options
+## Consent, Disclosure, and Privacy Options
 When consent is required by law (e.g., in the EEA/UK/CH), we:
+- Show an in-app disclosure explaining what data is collected and why. (support.google.com)
+- Request consent before requesting ads that use personal data or local storage. (developers.google.com)
+- Provide a Privacy options entry in the App so you can withdraw or change consent at any time. (developers.google.com)
 
-Show an in‑app disclosure explaining what data is collected and why. (support.google.com)
-Request consent before requesting ads that use personal data or local storage. (developers.google.com)
-Provide a Privacy options entry in the App so you can withdraw or change consent at any time. (developers.google.com)
-If you do not consent to personalized ads, we will request non‑personalized ads where available or may not show ads.
+If you do not consent to personalized ads, we will request non-personalized ads where available or may not show ads.
 
-Sharing of Data
+## Sharing of Data
 We share data with:
+- Google LLC — Firebase Analytics
+- Google LLC — AdMob
 
-Google LLC — Firebase Analytics
-Google LLC — AdMob
 These providers process data in accordance with their own privacy policies and applicable data protection laws.
 
-International Data Transfers
+## International Data Transfers
 Google may process personal data outside the EEA. In such cases, appropriate safeguards (such as Standard Contractual Clauses) are applied.
 
-Data Retention
+## Data Retention
 We retain analytics and advertising data only for as long as necessary to fulfill the purposes described above, or as configured in Firebase Analytics and AdMob settings.
 
-Your Rights (GDPR)
+## Your Rights (GDPR)
 If you are located in the EEA, you have the right to:
+- Access your personal data
+- Rectify inaccurate data
+- Request deletion of your data
+- Restrict or object to processing
+- Request data portability
 
-Access your personal data
-Rectify inaccurate data
-Request deletion of your data
-Restrict or object to processing
-Request data portability
 To exercise these rights, contact: oknorpcorp@gmail.com
 You also have the right to lodge a complaint with the Polish Data Protection Authority (UODO).
 
-Children
+## Children
 The App is not directed to children under the age of 13. We do not knowingly collect personal data from children.
 
-Changes to This Privacy Policy
+## AI-Generated Content Disclaimer
+The App generates text using GPT for entertainment purposes. Generated content may be inaccurate or inappropriate. You are responsible for how you use the outputs.
+
+## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated “Last updated” date.
 
-Contact
+## Contact
 If you have any questions about this Privacy Policy, please contact:
 Ihar Pronka
 Poland
