@@ -95,7 +95,7 @@ We use data to:
 - Show ads, including rewarded ads
 - Manage consent and privacy choices
 - Prevent abuse, fraud, misuse, and technical failures
-- Process and restore support purchases and related entitlements
+- Process, validate, and restore support purchases where applicable
 - Comply with legal obligations
 
 ## 6. AI and Text Processing
@@ -218,3 +218,4 @@ If you have questions about this Privacy Policy or your privacy rights, contact:
 - Ihar Pronka
 - Poland
 - oknorpcorp@gmail.com
+
