@@ -80,7 +80,7 @@ We use third-party providers to operate the App. These may include:
 - Google AdMob / Google Mobile Ads
 - OpenAI, for text-generation or rewriting requests handled through our backend
 - RevenueCat, for purchase and entitlement handling
-- Apple App Store / Google Play billing systems, where applicable
+- Relevant app store billing systems, where applicable
 
 These providers may process personal data on our behalf or as independent controllers according to their own terms and privacy policies.
 
